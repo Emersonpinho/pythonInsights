@@ -32,7 +32,7 @@ Após aplicar os filtros mencionados, o código calcula e exibe a **taxa de canc
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/emerson10110/pythonInsights.git
    ```
 2. **Navegue até o diretório do projeto**:
    ```bash
